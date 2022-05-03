@@ -10,12 +10,12 @@ nav{
     justify-content: space-between;
     align-items: center;
     background:linear-gradient(to left top, #2b2d2f 0%, #4d4e50 100%);
-    padding: 0px 20px;
+    padding: 0px 30px;
     color: aliceblue;
 }
 ul{
     display: flex;
-    gap: 50px;
+    gap: 80px;
 }
 li{
     list-style-type: none;
